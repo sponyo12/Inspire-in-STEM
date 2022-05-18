@@ -1,9 +1,9 @@
 # method
-
+name = "David Spencer"
 name = "Ada Lovelace"
 user_name = " Lovelace "
 age = 18
-# age = 55
+age = 55
 #person = "I am " + str(name) + " and my age is " + str(age)
 #print (person)
 # The format method

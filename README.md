@@ -10,7 +10,8 @@ add link to downloading vs codehttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&s
 
 
 add link toto downloading git for windows
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXovqJ0Oj3AhXT04UKHX6DBbgQFnoECA0QAQ&url=https%3A%2F%2Fdesktop.github.com%2F&usg=AOvVaw3Q4aArCExy0qKbKQYeMfD4
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXovqJ0Oj3AhXT04UKHX6DBbgQFnoECA0QAQ&url=https%3A%2F%2Fdesktop.github.com%2F&usg=AOvVaw3Q4aArCExy0qKbKQYeMfD
+
 
 [lesson 1 ](./images/lesson1.PMG)
 
