@@ -1,19 +1,11 @@
-# My age
-#Intergers are basically numbers
-age =18
+# getting user input
 
-# Number of siblings
-number_of_siblings =4
+f_name =input ("What is your first name?")
+print ("My name is " + f_name)
 
-dateOfBirth =5
-year_of_birth =2004
+age= input ("How old are you?")
+print ("I am " + str(age) + "year's old")
 
-#Strings are letters put together to give words and areput in quotes
-favouriteFood ="pizaa"
-first_name= "David"
-secondName="Spencer"
-schoolAttended= "Ovotes"
-
-print ("I am" +first_name)
-print ("I am" +secondName)
-print ("I am" +str(age) +"year's old")
+s_name =input ("What is my second name?")
+print ("My second name is" + s_name
+)

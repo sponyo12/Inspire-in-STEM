@@ -1,16 +1,19 @@
-# Python basics
+# My age
+#Intergers are basically numbers
+age =18
 
-# This is a comment
-# 
-# 
-# adding two numbers a and b
-# 
-# this is for a  
-# multi / many lines
-# comment
+# Number of siblings
+number_of_siblings =4
 
-print ('My name is David')
-print ("I'm from Nairobi")
-print ("I'm like traveling to different places")
-print ("I'm attending a STEM corse")
-print ("I like anime")
+dateOfBirth =5
+year_of_birth =2004
+
+#Strings are letters put together to give words and areput in quotes
+favouriteFood ="pizaa"
+first_name= "David"
+secondName="Spencer"
+schoolAttended= "Ovotes"
+
+print ("I am" +first_name)
+print ("I am" +secondName)
+print ("I am" +str(age) +"year's old")
