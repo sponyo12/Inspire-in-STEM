@@ -9,7 +9,7 @@ add link to downloading vs code
 
 add link toto downloading git for windows
 
-[./images/lesson1.PMG]
+[lesson 1 ](./images/lesson1.PMG)
 
 strings
      replace()
