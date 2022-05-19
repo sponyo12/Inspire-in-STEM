@@ -7,5 +7,4 @@ age= input ("How old are you?")
 print ("I am " + str(age) + "year's old")
 
 s_name =input ("What is my second name?")
-print ("My second name is" + s_name
-)
+print ("My second name is" + s_name)

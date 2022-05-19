@@ -32,4 +32,10 @@ motocycle = ['Honda','Suzuki','Yamaha']
 #print (popped_motocycle)
 
 #My name is David spencer and I own a motocycle plate_number h123
-print(f"My name is {motocycle_owner} and I owna {motocycle[1]} motocycle{plate_number[1]}") 
+#print(f"My name is {motocycle_owner} and I owna {motocycle[1]} motocycle{plate_number[1]}") 
+#statement = (f"My name is {motocycle_owner} and I owna {motocycle[1]} motocycle{plate_number[1]}") 
+#print(statement)
+
+#Removing an item from a list --remove
+motocycle.remove ("Honda")
+print(motocycle)
