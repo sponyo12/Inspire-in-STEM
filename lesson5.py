@@ -12,15 +12,15 @@ print("My name is () and I am () year's old ".format(name, age))
 print (("My \t name is {name} \n and I am {age} years old"))
 print(user_name.rstrip())
 print(user_name.lstrip())
-#msg ="""QRST12GHX MPESA confirmed
-#you have recieved 2000 from
-#James Muriithi on 
-#15th May 2022
-#Safaricom transparent to you"""
-#print (msg)  
+msg ="""QRST12GHX MPESA confirmed
+you have recieved 2000 from
+James Muriithi on 
+15th May 2022
+Safaricom transparent to you"""
+print (msg)  
 
-#txt = '''Hello ,this is GULF
-#BANK. We are informing you 
-#to come over to the bank.
-#Thank you'''     
-#print (txt)
+txt = '''Hello ,this is GULF
+BANK. We are informing you 
+to come over to the bank.
+Thank you'''     
+print (txt)
