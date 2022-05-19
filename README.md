@@ -14,6 +14,8 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 
 ![lesson 1 ](./images/Capture.PNG)
+![lesson 7](./images/Capture2.png)
+![lesson 7](./images/Capture3.png)
 
 strings
      replace()
