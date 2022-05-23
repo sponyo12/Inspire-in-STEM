@@ -8,6 +8,7 @@ motocycle = ['Honda','Suzuki','Yamaha']
 #print(motocycle)
 #print(motocycle[0])
 #print("I love " + str (motocycle[1]))
+print(motocycle[-1])
 
 #changing ellement's in a list
 #motocycle[0]= 'Bugati' 
@@ -37,5 +38,5 @@ motocycle = ['Honda','Suzuki','Yamaha']
 #print(statement)
 
 #Removing an item from a list --remove
-motocycle.remove ("Honda")
-print(motocycle)
+#motocycle.remove ("Honda")
+#print(motocycle)
