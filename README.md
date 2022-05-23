@@ -14,6 +14,8 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 Day 2:Basic python operations
 ![lesson 1 ](./images/Capture.PNG)
+
+
 Using comment 
 how to set up a path
 
@@ -27,11 +29,14 @@ using formats
 replacing letters 
 spliting sentences 
 lenng of sentences
+
+
 ![lesson 2 ](./images/Capture4.PNG)
 ![lesson 3 ](./images/Capture5.PNG)
 ![lesson 4 ](./images/Capture6.PNG)
 ![lesson 5 ](./images/Capture7.PNG)
 ![lesson 6 ](./images/Capture8.PNG)
+
 Day 4:Learning about lists 
 Acessing list using index
 Changing ellement's in a list
@@ -43,14 +48,6 @@ Removing item from list
 ![lesson 7](./images/Capture2.png)
 ![lesson 7](./images/Capture3.png)
 
-strings
-     replace()
-     strip()
-     slice()
-     format()
-     upper()
-     lower()
-     len()
 
 ## week 2 : Electronics for inovators
 
