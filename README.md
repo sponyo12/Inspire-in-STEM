@@ -14,7 +14,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
 
 Day 2:Basic python operations
 ![lesson 1 ](./images/Capture.PNG)
-
+![lesson 1 ](./images/Capture9.PNG)
 
 Using comment 
 how to set up a path
@@ -31,11 +31,11 @@ spliting sentences
 lenng of sentences
 
 
-![lesson 2 ](./images/Capture4.PNG)
-![lesson 3 ](./images/Capture5.PNG)
-![lesson 4 ](./images/Capture6.PNG)
-![lesson 5 ](./images/Capture7.PNG)
-![lesson 6 ](./images/Capture8.PNG)
+![lesson 2 ](./images/Capture4.png)
+![lesson 3 ](./images/Capture5.png)
+![lesson 4 ](./images/Capture6.png)
+![lesson 5 ](./images/Capture7.png)
+![lesson 6 ](./images/Capture8.png)
 
 Day 4:Learning about lists 
 Acessing list using index
@@ -50,7 +50,10 @@ Removing item from list
 
 
 ## week 2 : Electronics for inovators
-
+Day 1:initialising dictinaries
+      usings loops
+![lesson 8](./images/Capture10.png)
+![for_loop](./images/Capture11.png)
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
