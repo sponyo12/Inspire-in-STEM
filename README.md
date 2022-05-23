@@ -55,7 +55,7 @@ Day 1:initialising dictinaries
       
 ![lesson 8](./images/Capture10.png)
 ![for_loop](./images/Capture11.png)
-
+![assingment](./images/Capture12.png)
 
 ## week 3 : Introduction to robotics
 
