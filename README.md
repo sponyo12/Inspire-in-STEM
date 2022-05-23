@@ -52,8 +52,11 @@ Removing item from list
 ## week 2 : Electronics for inovators
 Day 1:initialising dictinaries
       usings loops
+      
 ![lesson 8](./images/Capture10.png)
 ![for_loop](./images/Capture11.png)
+
+
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
