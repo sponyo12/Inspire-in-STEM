@@ -9,13 +9,13 @@ from os import access
 acc_bal =input("What is your balance?")
 if (int(acc_bal)>100000 and int(acc_bal)<200000):
     acc_bal=int(acc_bal)-25000
-    print(f"Your account has been deducted 25000. Account balance is{acc_bal}")
+    print("Your account has been deducted 25000. ")
 elif (int(acc_bal)>500000 and int(acc_bal)<1000000):
-        acc_bal=int(acc_bal)- (acc_bal*0.03)
-        print(f"You account has been deducted 30%. Account balance is{int(acc_bal)}")
+        acc_bal=int(acc_bal)- (int(acc_bal)*0.03)
+        print("You account has been deducted 30%.")
 elif (int (acc_bal) >1000000) :
     acc_bal =int(acc_bal)-15000
-    print(f"You account has been deducted 15000. Account balance is{int(acc_bal)}")
+    print("You account has been deducted 15000. ")
 else:
     print('No money for you')
     

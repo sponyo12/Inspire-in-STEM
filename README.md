@@ -59,7 +59,10 @@ Day 1:initialising dictinaries
 
 Day 2:Usings empty list
       Creating program using user input
-      
+![assingment3](./images/Capture13.png)
+![assingment4](./images/Capture14.png)
+![assingment2](./images/Capture15.png)
+
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
