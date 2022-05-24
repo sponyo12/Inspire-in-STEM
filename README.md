@@ -38,13 +38,13 @@ lenng of sentences
 ![lesson 6 ](./images/Capture8.png)
 
 Day 4:Learning about lists 
-Acessing list using index
-Changing ellement's in a list
-Adding ellemnt's in a list
-Deleting ellemnt's in a list using:
-         popped methed
-         del method
-Removing item from list         
+      Acessing list using index
+      Changing ellement's in a list
+      Adding ellemnt's in a list
+      Deleting ellemnt's in a list using:
+                                         popped methed
+                                    del method
+      Removing item from list         
 ![lesson 7](./images/Capture2.png)
 ![lesson 7](./images/Capture3.png)
 
@@ -57,6 +57,9 @@ Day 1:initialising dictinaries
 ![for_loop](./images/Capture11.png)
 ![assingment](./images/Capture12.png)
 
+Day 2:Usings empty list
+      Creating program using user input
+      
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
