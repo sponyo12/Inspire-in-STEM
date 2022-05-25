@@ -50,7 +50,7 @@ Day 4:Learning about lists
 
 
 ## week 2 : Electronics for inovators
-Day 1:initialising dictinaries
+Day 1:initialising dictionaries
       usings loops
       
 ![lesson 8](./images/Capture10.png)
