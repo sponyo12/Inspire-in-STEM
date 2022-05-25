@@ -18,7 +18,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ve
          git commit -m"name of program"
          git push 
          authenticate you github(if it is the first time pushing data)
-         
+
 Day 2:Basic python operations
 ![lesson 1 ](./images/Capture.PNG)
 ![lesson 1 ](./images/Capture9.PNG)
@@ -69,8 +69,20 @@ Day 2:Usings empty list
 ![assingment3](./images/Capture13.png)
 ![assingment4](./images/Capture14.png)
 ![assingment2](./images/Capture15.png)
+      using if ,else and elif statements
 
-Day 3:
+Day 3:Using loops in lists
+![lists2](./images/Capture16.png) 
+ data structures:(simply a container storing data in an order)
+    #lists =['value','value'] 
+    # dictionaries ={'key':'value'}
+ what are dictionaries (a collection of key value pairs) 
+#syntax for dictionaries ={'Key':'value'}
+#define,access,add,remove
+#looping over dictinaries
+#dictionary in dictonary, list in dictionary, dictionary in list
+![lesson0.py](./images/Capture17.png)
+![lesson0.py](./images/Capture18.png)
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
