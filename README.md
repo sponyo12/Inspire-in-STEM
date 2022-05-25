@@ -11,7 +11,14 @@ add link to downloading vs codehttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&s
 
 add link toto downloading git for windows
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXovqJ0Oj3AhXT04UKHX6DBbgQFnoECA0QAQ&url=https%3A%2F%2Fdesktop.github.com%2F&usg=AOvVaw3Q4aArCExy0qKbKQYeMfD4
-
+      using git commands
+         git config --global user.name"your username"
+         git config --global user.email"your email"
+         git add *
+         git commit -m"name of program"
+         git push 
+         authenticate you github(if it is the first time pushing data)
+         
 Day 2:Basic python operations
 ![lesson 1 ](./images/Capture.PNG)
 ![lesson 1 ](./images/Capture9.PNG)
