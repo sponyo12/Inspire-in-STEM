@@ -63,6 +63,7 @@ Day 2:Usings empty list
 ![assingment4](./images/Capture14.png)
 ![assingment2](./images/Capture15.png)
 
+Day 3:
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
