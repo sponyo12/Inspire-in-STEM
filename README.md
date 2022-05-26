@@ -83,6 +83,16 @@ Day 3:Using loops in lists
 #dictionary in dictonary, list in dictionary, dictionary in list
 ![lesson0.py](./images/Capture17.png)
 ![lesson0.py](./images/Capture18.png)
+
+Day 4:loops 
+      python operations:
+                        greater than>
+                        less than<
+                        equal to ==
+                        true is 1
+                        false is 0
+                        assingnment =
+      using while statement                 
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html

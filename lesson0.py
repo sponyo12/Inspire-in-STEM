@@ -36,9 +36,10 @@ person['fav_colour']='junlge green'
 #del (person['phone_no'])
 #print(person)
 #looping over dictionaries
-for key,value in person.items():
-    print(f"{key}:{value}")
+#for key,value in person.items():
+    #print(f"{key}:{value}")
+#print (person['gender'])
 
-
-
-
+#Using get to access the value in adictionary
+#print(person.get('location','the loction key is non existent'))
+print(person.get('password','the loction key is non existent'))
