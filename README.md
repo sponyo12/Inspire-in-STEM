@@ -94,7 +94,8 @@ Day 4:loops
                         assingnment =
       using while statement
 Day 5:doing factorisation=def fact()
-      usng user input and loops                           
+      usng user input and loops 
+      making pyramids,patterns,                          
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
