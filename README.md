@@ -92,7 +92,9 @@ Day 4:loops
                         true is 1
                         false is 0
                         assingnment =
-      using while statement                 
+      using while statement
+Day 5:doing factorisation=def fact()
+      usng user input and loops                           
 ## week 3 : Introduction to robotics
 
 ## week 4 : Javascript, css, html
