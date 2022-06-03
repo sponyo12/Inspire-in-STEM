@@ -41,3 +41,13 @@ add_numbers(10,30)
 add_numbers(400,500)
 
 
+#using default parameters
+def print_name (name="David spencer"):
+    print(name)
+print_name("Thomas")    
+#return from a function
+def get_sum(num_1,num_2):
+    sum_num=num_1+num_2
+    return sum_num
+print(get_sum(7,12))     
+
