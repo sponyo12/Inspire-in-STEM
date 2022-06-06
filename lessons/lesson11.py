@@ -12,6 +12,7 @@ for number in range(0,9):
     #print(number)
     #print("\t")
     #print(number**2)
+
 mary_fav_food = ['chicken','beef','vegetable',]
 jane_fav_food = ['rice','ugali','potato',]
 food = {

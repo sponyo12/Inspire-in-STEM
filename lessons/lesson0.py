@@ -7,10 +7,10 @@
 #looping over dictinaries
 #dictionary in dictonary, list in dictionary, dictionary in list
 
-names =('john','mary')
-list_names =['john','mary']
-colours ={'colour':'red'}
-vehicle ={'type':'toyota','plate_number':'kwz45'}
+#names =('john','mary')
+#list_names =['john','mary']
+#colours ={'colour':'red'}
+#vehicle ={'type':'toyota','plate_number':'kwz45'}
 #print(type(colours))
 #print(type(list_names))#we use the type of method 
 #acessing values in a dictionary
@@ -18,10 +18,10 @@ vehicle ={'type':'toyota','plate_number':'kwz45'}
 #print(vehicle['type'])#you can acess the value of an ellement inside a dictionary using the key
 #print(vehicle['plate_number'])
 #dictionary person
-person ={'name':'David Spencer',
-         'gender':'male',
-         'phone_no':'0792878324'
-         ,'location':'Nairobi'}
+#person ={'name':'David Spencer',
+#         'gender':'male',
+ #        'phone_no':'0792878324'
+ #        ,'location':'Nairobi'}
 #print(person)
 #print(person['name'])
 #print(person['gender'])
@@ -29,8 +29,8 @@ person ={'name':'David Spencer',
 #print(vehicle['type'],vehicle['plate_number'])
 #print(person['name'],person['gender'],person['location'],person['phone_no'])
 #adding items into a key dict['key']='value'
-person['age']='18'
-person['fav_colour']='junlge green'
+#person['age']='18'
+#person['fav_colour']='junlge green'
 #print(person)
 #print(person['name'],person['age'],person['fav_colour'])
 #del (person['phone_no'])
@@ -42,4 +42,21 @@ person['fav_colour']='junlge green'
 
 #Using get to access the value in adictionary
 #print(person.get('location','the loction key is non existent'))
-print(person.get('password','the loction key is non existent'))
+#print(person.get('password','the loction key is non existent'))
+
+#retuning dictionary
+def creat_full_name(first_name,second_name):
+    person={'first':first_name,
+            'second':second_name}
+    return person
+student=creat_full_name('david','spencer')
+print(student) 
+
+
+
+
+
+
+
+
+
