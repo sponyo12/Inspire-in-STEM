@@ -1,3 +1,21 @@
 This is a normal text file
 learning python is fun
 Today is a cloudy day
+
+
+open file=  file_name.open()
+write file=          .write()
+add at the end=      .append()
+close=               .close()
+read=                .read()
+seek:character/line= .seek()
+tell=                .tell()
+read.line=           .read.line()
+ 
+r=file for reading
+x=create new file
+w=a writing file
+a=opens file for appending(at the end)
+t=opens file in txt mode
++=opens a file for reading and writing
+b=binary mode
