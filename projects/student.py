@@ -13,4 +13,4 @@ class Student:
         self.reg_no=reg_no
         self.grade=grade
     def sayHi(self):
-        print("hello from student" + name.title())
+        print(f"my name is {self.name} \n my hobby is {self.hobby} \n my registration number is {self.reg_no} \n my grade is {self.grade}")
