@@ -1,3 +1,4 @@
+#digital clock
 from tkinter import *
 from time import strftime
 root = Tk()

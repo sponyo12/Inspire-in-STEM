@@ -5,8 +5,8 @@ import pandas as pd
 #add some colour to the window
 sg.theme('Darkteal9')
 
-EXCEL_FILE='Data_Book1.xlsx'
-df = pd.read_excel(EXCEL_FILE)
+#EXCEL_FILE='Book1.xlsx'
+#df = pd.read_excel(EXCEL_FILE)
 
 
 layout = [
@@ -28,7 +28,7 @@ while True:
     if event ==sg.WIN_CLOSED or event == 'Exit':
         break
     if event == 'Submit':
-        df = df.append(values, ignore_index=True)
-        df.to_excel(EXCEL_FILE, index=False)
+        #df = df.append(values, ignore_index=True)
+        #df.to_excel(EXCEL_FILE, index=False)
         sg.popup('Data saved!')
 window.close()        
