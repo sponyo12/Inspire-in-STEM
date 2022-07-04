@@ -14,6 +14,7 @@ layout = [
     [sg.Text('Name',size=(15,1)), sg.InputText(key='Name')],
     [sg.Text('Email',size=(15,1)),sg.InputText(key='Email')],
     [sg.Text('Phone NO',size=(15,1)),sg.InputText(key='Phone NO')],
+    [sg.Text('Email',size=(15,1)),sg.InputText(key='Email')],
     [sg.Text('I speak', size=(15,1)),
                             sg.Checkbox('Kiswahili',key='Kiswahili'),
                             sg.Checkbox('English',key='English')],
@@ -30,5 +31,5 @@ while True:
     if event == 'Submit':
         #df = df.append(values, ignore_index=True)
         #df.to_excel(EXCEL_FILE, index=False)
-        sg.popup('Data saved!')
+        sg.popup('Log in successfull!')
 window.close()        

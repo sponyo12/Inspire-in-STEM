@@ -97,6 +97,17 @@ Day 5:doing factorisation=def fact()
       usng user input and loops 
       making pyramids,patterns,                          
 ## week 3 : Introduction to robotics
+concluding python: using tkinter to create minor projects
+
+creating a simple weather app to tell weather conditions of any place at a certain time
+
+downloading and configure arduino for introduction to robotics https://www.arduino.cc/en/software
+
+web scraping
+
+learned to use arduino and breadboard to make led's blink
+
+learned to solder using solder wire and soldering iron
 
 ## week 4 : Javascript, css, html
 
